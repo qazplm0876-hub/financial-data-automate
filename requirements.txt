@@ -1,0 +1,6 @@
+flask
+finance-datareader
+openpyxl
+requests
+pandas
+gunicorn
